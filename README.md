@@ -15,7 +15,7 @@
 - 📌 Досвід із: **Python, Java, SQL (PostgreSQL, MySQL, SQLite), Android Studio, WordPress, Git**
 - 🌐 Створюю та налаштовую сайти на WordPress у зв’язці з OpenServer
 - ⚙️ Цікавлюсь автоматизацією, прикладними задачами та розробкою бекенду
-- 📫 Зв’язок: [@name_mmm](https://t.me/name_mmm) • ✉️ nikitapodolskiy.dev@gmail.com
+- 📫 Зв’язок: [@name_mmm](https://t.me/name_mmm) • ✉️ ffg382005@gmail.com
 
 ---
 
@@ -23,7 +23,7 @@
 
 - 🤖 [Телеграм-бот-помічник](https://github.com/nikitapodolskiy/telegram-task-bot) — бот для керування завданнями з базою даних і нагадуваннями
 - 📱 [Android-калькулятор](https://github.com/nikitapodolskiy/android-calculator) — застосунок на Jetpack Compose
-- 🌐 [Сайт-візитівка на WordPress](https://github.com/nikitapodolskiy/wordpress-portfolio) — налаштування тем, плагінів, адаптація під клієнта
+
 
 ---
 
