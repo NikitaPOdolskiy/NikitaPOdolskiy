@@ -47,13 +47,6 @@
 
 ### 📊 GitHub Статистика
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikitapodolskiy&show_icons=true&theme=transparent" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitapodolskiy&layout=compact&theme=transparent" />
-</p>
-
----
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
@@ -72,4 +65,4 @@
 
 ---
 
-📄 [English version coming soon...]
+
