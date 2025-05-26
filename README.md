@@ -9,17 +9,26 @@
 
 ### 🧑‍💻 Про мене
 
-- 🌱 Вивчаю нові технології для покращення своїх навичок у розробці
-- 🌱 Вивчаю: **Jetpack Compose, Kotlin, Firebase, архітектурні патерни**
+- 📍 Україна | 💡 Мета: отримати перший комерційний досвід у бекенд-розробці
+- 🌱 Активно вивчаю: **Jetpack Compose, Kotlin, Firebase, архітектурні патерни**
 - 🤝 Шукаю співпрацю над **Telegram-ботами з корисним функціоналом**
 - 📌 Досвід із: **Python, Java, SQL (PostgreSQL, MySQL, SQLite), Android Studio, WordPress, Git**
 - 🌐 Створюю та налаштовую сайти на WordPress у зв’язці з OpenServer
 - ⚙️ Цікавлюсь автоматизацією, прикладними задачами та розробкою бекенду
-- 📫 Зв’язок: [@name_mmm](https://t.me/name_mmm)
+- 📫 Зв’язок: [@name_mmm](https://t.me/name_mmm) • ✉️ nikitapodolskiy.dev@gmail.com
+
+---
+
+### 📁 Мої проєкти
+
+- 🤖 [Телеграм-бот-помічник](https://github.com/nikitapodolskiy/telegram-task-bot) — бот для керування завданнями з базою даних і нагадуваннями
+- 📱 [Android-калькулятор](https://github.com/nikitapodolskiy/android-calculator) — застосунок на Jetpack Compose
+- 🌐 [Сайт-візитівка на WordPress](https://github.com/nikitapodolskiy/wordpress-portfolio) — налаштування тем, плагінів, адаптація під клієнта
 
 ---
 
 ### 💻 Мови та інструменти
+
 <p align="left">
   <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
   <a href="https://kotlinlang.org"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></a>
@@ -36,6 +45,14 @@
 
 ---
 
+### 📊 GitHub Статистика
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nikitapodolskiy&show_icons=true&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitapodolskiy&layout=compact&theme=transparent" />
+</p>
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
@@ -52,3 +69,7 @@
     <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Купити каву NikitaPOdolskiy" />
   </a>
 </p>
+
+---
+
+📄 [English version coming soon...]
